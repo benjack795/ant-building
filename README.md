@@ -1,6 +1,7 @@
 # ant-building
 Final Year Undergraduate Project at Sussex University
 Modelling Nest-Building Behaviour in Leptothorax and its Response to Environmental Stimuli 
+Java based system using the Box2D physics engine.
 
 Leptothorax ants build nests by moving debris around their brood in flat rock crevices. 
 In 1992, Franks et al. created a static collective behaviour model, correlating with real ant data. 
